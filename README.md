@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, VueJS**
 
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs4a204N2l1NWM2eDluMjdjcDc1cWQwdTdzaDhwZ2lsc3kwMmNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp" alt="Internet Coding GIF by Pudgy Penguins"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
