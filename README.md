@@ -4,10 +4,14 @@
 - 🎓 I’m graduated from [Hacktiv8](https://hacktiv8.com/)
 
 - 🌱 I’m currently learning **React, VueJS**
+  
+- 🔍 I am now focused on Front End
 
 - 👨‍💻 All of my projects are available at [https://dimas-portfolio-six.vercel.app/](https://dimas-portfolio-six.vercel.app/)
 
 - 💬 Ask me about **React, VueJS**
+
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
