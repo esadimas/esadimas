@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esa Dimas</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
-
-- 🎓 I’m graduated from [Hacktiv8](https://hacktiv8.com/)
-
-- 🌱 I’m currently learning **React, VueJS**
-  
-- 🔍 I am now focused on Front End
-
-- 👨‍💻 All of my projects are available at [https://dimas-portfolio-six.vercel.app/](https://dimas-portfolio-six.vercel.app/)
-
-- 💬 Ask me about **React, VueJS**
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs4a204N2l1NWM2eDluMjdjcDc1cWQwdTdzaDhwZ2lsc3kwMmNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp" alt="Internet Coding GIF by Pudgy Penguins"/>
 
